@@ -27,6 +27,6 @@ jobs:
       - run: | 
           echo "See below for all files"
           tree
-        name: List files in the repository
-        uses: actions/checkout@v3.0.2
+          name: List files in the repository
+          uses: actions/checkout@v3.0.2
           
